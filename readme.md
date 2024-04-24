@@ -6,7 +6,7 @@
 - **Universidade:** Estácio de Sá - Campus São José dos Pinhais
 - **Período:** 3º
 - **Turma:** 9001
-- **Tutora:** Alessandro Dos Santos Calin
+- **Tutor:** Alessandro Dos Santos Calin
 - **Matéria:** Vamos Manter as Informações? (RPG0015)
 
 ## Informações do Aluno
